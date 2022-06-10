@@ -1,7 +1,7 @@
 <img align="right" width="100" height="100" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png"/><h1 align="center">
 Hi 👋, I'm DALM1</h1>
 
-📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with CS50's Introduction to Computer Science from Harvard, La Passerelle and Le Reacteur https://www.lereacteur.io/)
+📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with Harvard CS50's Introduction to Computer Science, La Passerelle and Le Reacteur https://www.lereacteur.io/)
 
 💻 I’m currently working on my personal portfolio https://voluble-praline-840678.netlify.app/
 
