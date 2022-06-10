@@ -3,7 +3,7 @@ Hi 👋, I'm DALM1</h1>
 
 🌱 Currently learning all languages from a FullStack Javascript developer with CS50's Introduction to Computer Science from Harvard, La Passerelle and Le Reacteur https://www.lereacteur.io/)
 
-🏻‍🏫 I’m currently working on my personal portfolio
+🏻‍🏫 I’m currently working on my personal portfolio https://voluble-praline-840678.netlify.app/
 
 ## Languages and frameworks
 
