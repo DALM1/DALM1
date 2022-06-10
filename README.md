@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://img.icons8.com/fluency/344/javascript.png"/><h1 align="center">
+<img align="right" width="100" height="100" src="https://img.icons8.com/cute-clipart/344/react-native.png"/><h1 align="center">
 Hi 👋, I'm DALM1</h1>
 
 🌱 I am currently learning all languages from a FullStack Javascript developer with CS50's Introduction to Computer Science from Harvard, La Passerelle and Le Reacteur https://www.lereacteur.io/)
