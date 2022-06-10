@@ -28,7 +28,7 @@ Hi 👋, I'm DALM1</h1>
 
 
 
-## My next learning
+## Next learning
 
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
 
