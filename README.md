@@ -6,7 +6,7 @@ Hi 👋, I'm DALM1</h1>
 💻 I’m currently working on my personal portfolio https://voluble-praline-840678.netlify.app/
 
 ## Skills 
-
+<img width="40px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>&emsp;
@@ -15,7 +15,7 @@ Hi 👋, I'm DALM1</h1>
 <img width="40px" height="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp;
 <img width="60px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
 <img width="40px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>&emsp;
-<img width="40px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>&emsp;
+
 
 
 
