@@ -15,7 +15,7 @@ Hi 👋, I'm DALM1</h1>
 <img width="40px" height="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp;
 <img width="60px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
 <img width="40px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>&emsp;
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>&emsp;
+<img width="40px" src="https://img2.freepng.fr/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg"/>&emsp;
 
 
 
