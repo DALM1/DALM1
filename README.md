@@ -3,7 +3,7 @@ Hi 👋, I'm DALM1</h1>
 
 📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with Harvard CS50's Introduction to Computer Science, La Passerelle and Le Reacteur (https://www.lereacteur.io/)
 
-💻 I’m currently working on my personal portfolio https://voluble-praline-840678.netlify.app/
+💻 I’m currently working on my personal portfolio (https://voluble-praline-840678.netlify.app/)
 
 ## Skills 
 <img width="40px" src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>&emsp;
