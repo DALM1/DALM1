@@ -33,7 +33,8 @@ Hi 👋, I'm DALM1</h1>
 
 ## Next learning
 
-<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://img.icons8.com/color/344/python--v1.png"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
+
 
 
