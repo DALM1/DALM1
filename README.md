@@ -26,7 +26,7 @@ Hi 👋, I'm DALM1</h1>
 
 <img width="40px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/langfr-800px-Vimlogo.svg.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;
-<img width="40px" style="margin-right: 10px" src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://jobs.mindtheproduct.com/wp-content/uploads/job-manager-uploads/company_logo/2021/10/csblogo.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
 
