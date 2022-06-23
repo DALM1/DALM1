@@ -7,6 +7,7 @@ Hi 👋, I'm DALM1</h1>
 
 ## Skills 
 <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://img.icons8.com/color/344/python--v1.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>&emsp;
@@ -35,7 +36,6 @@ Hi 👋, I'm DALM1</h1>
 
 ## Next learning
 
-<img width="40px" style="margin-right: 10px" src="https://img.icons8.com/color/344/python--v1.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
 
 
