@@ -3,7 +3,7 @@ Hi 👋, I'm DALM1</h1>
 
 📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with Harvard CS50's Introduction to Computer Science, La Passerelle and Le Reacteur (https://www.lereacteur.io/)
 
-💻 I’m currently working on my personal portfolio (https://loading04.herokuapp.com)
+💻 I’m currently working on my personal portfolio 
 
 ## Skills 
 <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457"/>&emsp;
