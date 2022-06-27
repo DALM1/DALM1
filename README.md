@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm DALM1</h1>
-<img align="right" width="100" height="100" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png"/>
 <img align="center" width="700" height="700"  src="https://media1.giphy.com/media/l4FGo2HgcJHi4prFK/giphy.gif?cid=ecf05e47vlfzr1uh98ieia4dr8tdsgu2fluh3bw1v5fk0pu3&rid=giphy.gif&ct=g"/>&emsp;
 
 
