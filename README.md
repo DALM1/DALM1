@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png"/><h1 align="center">
+<img align="right" width="100" height="100" style="background-image: url(https://media1.giphy.com/media/CKlafeh1NAxz35KTq4/giphy.gif?cid=790b7611cdd5d0ef40a56ae2524b80df921aebc288033762&rid=giphy.gif&ct=g)" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png"/><h1 align="center">
 <img align="" width="300" height="200"  src="https://media1.giphy.com/media/CKlafeh1NAxz35KTq4/giphy.gif?cid=790b7611cdd5d0ef40a56ae2524b80df921aebc288033762&rid=giphy.gif&ct=g"/>&emsp;
 Hi 👋, I'm DALM1</h1>
 
