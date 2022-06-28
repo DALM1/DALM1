@@ -2,7 +2,7 @@
 <img align="right" width="500" height="100"  src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg"/>&emsp;
 
 
-📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with Harvard CS50's Introduction to Computer Science, La Passerelle and Le Reacteur (https://www.lereacteur.io/)
+<h2 align="center">📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with Harvard CS50's Introduction to Computer Science, La Passerelle and Le Reacteur (https://www.lereacteur.io/) </h2>
 
 💻 I’m currently working on my personal portfolio 
 
