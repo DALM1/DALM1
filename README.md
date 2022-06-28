@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DALM1</h1>
-<img align="right" width="700" height="700"  src="https://media1.giphy.com/media/l4FGo2HgcJHi4prFK/giphy.gif?cid=ecf05e47vlfzr1uh98ieia4dr8tdsgu2fluh3bw1v5fk0pu3&rid=giphy.gif&ct=g"/>&emsp;
+<img align="right" width="700" height="700"  src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg"/>&emsp;
 
 
 📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with Harvard CS50's Introduction to Computer Science, La Passerelle and Le Reacteur (https://www.lereacteur.io/)
