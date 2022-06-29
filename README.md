@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm DALM1</h1>
 <img align="right" width="400" height="100"  src="https://raw.githubusercontent.com/DALM1/DALM1/2e29d241a16b555a50e8f1a00a5f2c6c53e1b4a5/github-contribution-grid-snake.svg"/>&emsp;
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DALM1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
