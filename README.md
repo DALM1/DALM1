@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm DALM1</h1>
 <img align="right" width="400" height="100"  src="https://raw.githubusercontent.com/DALM1/DALM1/2e29d241a16b555a50e8f1a00a5f2c6c53e1b4a5/github-contribution-grid-snake.svg"/>&emsp;
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DALM1&theme=dracula)](https://github.com/DALM1/github-readme-activity-graph)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DALM1&hide=contribs,prs,stars,issues)
 
 
 
@@ -42,4 +44,4 @@
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DALM1&hide=contribs,prs,stars,issues)
+
