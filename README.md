@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm DALM1</h1>
 <img align="right" width="900" height="100"  src="https://media1.giphy.com/media/YvmrAnwdhAkp7EKkVu/giphy.gif?cid=ecf05e478oapemklhwzrh10i7ymyy5c3mg90x0t99f7v5u6v&rid=giphy.gif&ct=g"/>&emsp;
 
-<img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/DALM1/DALM1/2e29d241a16b555a50e8f1a00a5f2c6c53e1b4a5/github-contribution-grid-snake.svg"/>&emsp;
-
-
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DALM1&theme=dracula)](https://github.com/DALM1/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DALM1&layout=compact&theme=dracula)](https://github.com/DALM1/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DALM1&hide=contribs,prs,stars,issues&theme=dracula)
+
+<img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/DALM1/DALM1/2e29d241a16b555a50e8f1a00a5f2c6c53e1b4a5/github-contribution-grid-snake.svg"/>&emsp;
 
 
 
