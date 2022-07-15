@@ -53,7 +53,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
- name: gitartwork from a contribution graph
+  name: gitartwork 
  on: 
    push:
    schedule:
@@ -69,4 +69,5 @@ jobs:
             # Use this username's contribution graph  
             user_name: DALM1
             # Text on contribution graph 
+            text: DALM1
        - uses: jasineri/simple-push-action@v1
