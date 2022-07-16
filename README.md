@@ -12,7 +12,7 @@
 
 💻 I’m currently working on my personal portfolio 
 
-
+<img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/DALM1/DALM1/4fbdab400b19709195555a5457079917dbb73653/gitartwork.svg"/>&emsp;
 
 ## Skills 
 
