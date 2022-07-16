@@ -4,7 +4,7 @@
 <img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg"/>&emsp;
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DALM1&theme=dracula)](https://github.com/DALM1/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DALM1&layout=compact&theme=dracula)](https://github.com/DALM1/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DALM1&hide=contribs,prs,stars,issues&theme=dracula)
 
 
