@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: DALM1
             # Text on contribution graph 
-            text: MERN STACK
+            text: MERN STK
        - uses: jasineri/simple-push-action@v1
