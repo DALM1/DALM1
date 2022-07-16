@@ -12,7 +12,7 @@
 
 💻 I’m currently working on my personal portfolio 
 
-![gitartwork](gitartwork.svg)
+
 
 ## Skills 
 
