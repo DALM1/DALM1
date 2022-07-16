@@ -10,8 +10,6 @@
 
 📔 Currently learning all languages from a FullStack Javascript developer since october 2021 with Harvard CS50's Introduction to Computer Science, La Passerelle and Le Reacteur (https://www.lereacteur.io/) 
 
-💻 I’m currently working on my personal portfolio 
-
 <img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/DALM1/DALM1/4fbdab400b19709195555a5457079917dbb73653/gitartwork.svg"/>&emsp;
 
 ## Skills 
