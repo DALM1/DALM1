@@ -14,6 +14,7 @@
 <img width="40px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-1024px-MySQL.svg.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://miro.medium.com/max/1400/1*z1U7SJeqK_JJXUYei5uD8w.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://react-spring.io/spring-icon.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>&emsp;
@@ -25,7 +26,6 @@
 ## Tools
 
 <img width="40px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/langfr-800px-Vimlogo.svg.png"/>&emsp;
-<img width="40px" style="margin-right: 10px" src="https://miro.medium.com/max/1400/1*z1U7SJeqK_JJXUYei5uD8w.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://jobs.mindtheproduct.com/wp-content/uploads/job-manager-uploads/company_logo/2021/10/csblogo.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
