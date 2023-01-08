@@ -39,7 +39,7 @@
 
 <img width="40px" style="margin-right: 10px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>&emsp;
 
-<img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg"/>&emsp;
+<img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>&emsp;
 
 <img align="center" width="900" height="200"  src="https://media1.giphy.com/media/YvmrAnwdhAkp7EKkVu/giphy.gif?cid=ecf05e478oapemklhwzrh10i7ymyy5c3mg90x0t99f7v5u6v&rid=giphy.gif&ct=g"/>&emsp; 
 
