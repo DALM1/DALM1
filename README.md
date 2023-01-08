@@ -35,9 +35,6 @@
 
 
 
-## Current learning
-
-<img width="40px" style="margin-right: 10px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>&emsp;
 
 <img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>&emsp;
 
