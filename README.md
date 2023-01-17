@@ -30,6 +30,7 @@
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Ffreepng%2Fyarn-png%2F&psig=AOvVaw3aFfCgNUg2MQcFir3jyAY5&ust=1674017273293000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJj8iLnmzfwCFQAAAAAdAAAAABAJ"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://bun.sh/logo.svg"/>&emsp;
 
 
