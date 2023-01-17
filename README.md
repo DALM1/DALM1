@@ -30,7 +30,7 @@
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
-<img width="40px" style="margin-right: 10px" src="https://cpng.pikpng.com/pngl/s/84-844380_yarn-global-packages-not-working-yarn-package-manager.png"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://www.pikpng.com/pngl/m/84-844380_yarn-global-packages-not-working-yarn-package-manager.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://bun.sh/logo.svg"/>&emsp;
 
 
