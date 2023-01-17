@@ -30,7 +30,7 @@
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
-<img width="40px" style="margin-right: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qS-4nrZ1ZK0zETNUtevgNbLfpgFOav4-lA&usqp=CAU"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://bun.sh/logo.svg"/>&emsp;
 
 
