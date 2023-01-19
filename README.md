@@ -20,7 +20,7 @@
 <img width="40px" style="margin-right: 10px" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://img.icons8.com/color/344/mongodb.png"/>&emsp;
 <img width="60px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>&emsp;
-<img width="60px" style="margin-right: 10px" src="https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon.png"/>&emsp;
+<img width="60px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png"/>&emsp;
 
 
 
