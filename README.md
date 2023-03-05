@@ -14,6 +14,7 @@
 <img width="40px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-1024px-MySQL.svg.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>&emsp;
+<img width="40px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://miro.medium.com/max/1400/1*z1U7SJeqK_JJXUYei5uD8w.png"/>&emsp;
 <img width="40px" style="margin-right: 10px" src="https://react-spring.io/spring-icon.png"/>&emsp;
