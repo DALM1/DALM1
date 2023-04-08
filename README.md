@@ -32,7 +32,7 @@
 [![Bun](https://img.shields.io/badge/Bun-FFA500?style=for-the-badge&logo=bun&logoColor=white)](https://www.google.com/search?q=bun)
 ##
 
-<img align="right" width="900" height="100"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVkZDE1YjgzMzc1NTk0OTcyOGE4MDZjMmRkNjlhZTA3MWU2NDNjNSZjdD1n/zuSkzUZBklR6MiILIM/giphy.gif"/>&emsp;
+<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVkZDE1YjgzMzc1NTk0OTcyOGE4MDZjMmRkNjlhZTA3MWU2NDNjNSZjdD1n/zuSkzUZBklR6MiILIM/giphy.gif"/>&emsp;
 
 <img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>&emsp;
 
