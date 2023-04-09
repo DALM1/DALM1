@@ -29,7 +29,7 @@
 [![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
-[![Bun](https://img.shields.io/badge/Bun-FFA500?style=for-the-badge&logo=bun&logoColor=white)](https://www.google.com/search?q=bun)
+[![Bun](https://img.shields.io/badge/Bun-FFA500?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh)
 ##
 
 
