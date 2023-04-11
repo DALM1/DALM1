@@ -49,6 +49,7 @@
 <img align="center" width="900" height="200"  src="https://media1.giphy.com/media/YvmrAnwdhAkp7EKkVu/giphy.gif?cid=ecf05e478oapemklhwzrh10i7ymyy5c3mg90x0t99f7v5u6v&rid=giphy.gif&ct=g"/>&emsp; 
 
 
+All the tools associated with this GitHub account are provided for educational and research purposes only. The owner of the account is not responsible for any illegal use of any of the related tooling.
 
 
 
