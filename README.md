@@ -1,18 +1,7 @@
-```ignore
-```
-                                             ` (              (       *  "
-                                               )\ )    (      )\ )  (  \`       )
-                                               (()/(    )\    (()/(  )\))(   ( /("
-                                               /(_))((((_)(   /(_))((_)()\  )\())
-                                               (_))_  )\ _ )\ (_))  (_()((_)((_)\ 
-                                               |   \ (_)_\(_)| |   |  \/  | / (_)
-                                               | |) | / _ \  | |__ | |\/| | | |  
-                                               |___/ /_/ \_\ |____||_|  |_| |_| "
- ```
- ```
+
 <img align="center" width="900" height="200"  src="https://media1.giphy.com/media/YvmrAnwdhAkp7EKkVu/giphy.gif?cid=ecf05e478oapemklhwzrh10i7ymyy5c3mg90x0t99f7v5u6v&rid=giphy.gif&ct=g"/>&emsp;
 
-<img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>&emsp;
+<img src="https://raw.githubusercontent.com/DALM1/DALM1/output/snake.svg" alt="Snake animation" />
 
 ##
 
@@ -44,36 +33,13 @@
 ##
 
 
-<img align="right" width="900" height="100"  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>&emsp;
+<img src="https://raw.githubusercontent.com/DALM1/DALM1/output/snake.svg" alt="Snake animation" />
 
 <img align="center" width="900" height="200"  src="https://media1.giphy.com/media/YvmrAnwdhAkp7EKkVu/giphy.gif?cid=ecf05e478oapemklhwzrh10i7ymyy5c3mg90x0t99f7v5u6v&rid=giphy.gif&ct=g"/>&emsp; 
 
 
 
 
-```ignore
-
-
-                                      )
-                            )      ((     (
-                           (        ))     )
-                    )       )      //     (
-               _   (        __    (     ~->>
-        ,-----' |__,_~~___<'__`)-~__--__-~->> <
-        | //  : | -__   ~__ o)____)),__ - '> >-  >
-        | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
-        | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
-        `-----._| `  -__`-- - ~~ -- ` --~> >
-         _/___\_    //)_`//  | ||]
-   _____[_______]_[~~-_ (.L_/  ||
-  [____________________]' `\_,/'/
-    ||| /          |||  ,___,'./
-    ||| \          |||,'______|
-    ||| /          /|| I==||
-    ||| \       __/_||  __||__
------||-/------`-._/||-o--o---o---
-  ~~~~~'
-```
 
 All the tools associated with this GitHub account are provided for educational and research purposes only. The owner of the account is not responsible for any illegal use of any of the related tooling.
 
