@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DALM1/DALM1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -9,6 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DALM1/DALM1/output/snake.svg" alt="Snake animation" />
+
 
 ###
